@@ -1,0 +1,19 @@
+#answer {
+  display: none;
+}
+
+#answer2 {
+  display: none;
+}
+h1 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+h1:hover {
+  text-decoration: underline;
+}
+
+.container {
+  padding-top: 100px;
+}
