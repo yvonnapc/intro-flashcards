@@ -23,14 +23,14 @@ If you have any issues, questions, ideas, or concerns contact us through GitHub.
 
 ## Technologies Used
 
-• HTML
-• CSS
-• jQuery
-• Atom
-• Terminal
-• Bootstrap
-• Markdown
-• GIT
+• HTML<br>
+• CSS<br>
+• jQuery<br>
+• Atom<br>
+• Terminal<br>
+• Bootstrap<br>
+• Markdown<br>
+• GIT<br>
 
 ## License
 
